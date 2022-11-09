@@ -40,7 +40,9 @@ THEN I exit the application, and the HTML is generated
 
 ### Video Example
 
-No video yet as the application is incomplete.
+Example video of incomplete code. 
+
+https://drive.google.com/file/d/1k8VCh2omFSNN-ThkkpuXARzZ0VTQp_Y3/view
 
 ### Deployed Repo
 
