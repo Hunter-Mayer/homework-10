@@ -40,7 +40,7 @@ THEN I exit the application, and the HTML is generated
 
 ### Video Example
 
-No video yet as the application is incomnplete.
+No video yet as the application is incomplete.
 
 ### Deployed Repo
 
