@@ -1,7 +1,7 @@
 # Hunter Mayer Homework Challenge 10
 
 ## Description
-Write here
+This is an in progress version of homework challenge 10, in which I am working on trying to generate and test html using OOP. 
 
 ### Acceptance Criteria
 GIVEN a command-line application that accepts user input
@@ -40,11 +40,11 @@ THEN I exit the application, and the HTML is generated
 
 ### Video Example
 
-Add link here
+No video yet as the application is incomnplete.
 
 ### Deployed Repo
 
-Github Repo: add link here
+Github Repo: https://github.com/Hunter-Mayer/homework-10
 
 ## Credits
 
